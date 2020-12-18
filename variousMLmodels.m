@@ -1,5 +1,5 @@
 %Read in data
-T = readtable('FinalAllSeasonData2.csv','Delimiter',',');
+T = readtable('FinalAllSeasonData.csv','Delimiter',',');
 [n,~] = size(T);
 
 %Randomly assign training and testing sets
