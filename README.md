@@ -7,7 +7,7 @@ This paper aims to develop an interpretable machine learning model to predict pl
 
 Paper Information: 
 
-Citation:C. Fernandes, R. Yakubov, Y. Li, A. Prasad, T. C. Y. Chan, "Predicting Plays in the National Football League," Journal of Sports Analytics, Vol. 6, pp. 35-43, 2020.
+Citation:C. Fernandes, R. Yakubov, Y. Li, A. Prasad, T. C. Y. Chan, "Predicting Plays in the National Football League," *Journal of Sports Analytics*, Vol. 6, pp. 35-43, 2020.
 
 DOI: 10.3233/JSA-190348
 
