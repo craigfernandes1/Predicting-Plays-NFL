@@ -12,3 +12,7 @@ Citation:C. Fernandes, R. Yakubov, Y. Li, A. Prasad, T. C. Y. Chan, "Predicting 
 DOI: 10.3233/JSA-190348
 
 Link: https://content.iospress.com/articles/journal-of-sports-analytics/jsa190348
+
+Presentation at Harvard 2017:
+
+https://www.youtube.com/watch?v=6_NvhrtF_5I&ab_channel=MarkGlickman
