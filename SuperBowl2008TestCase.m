@@ -1,5 +1,5 @@
 %load the play-by-play for SuperBowl 
-T = readtable('Game2012Test4.csv','Delimiter',',');
+T = readtable('SuperBowl2008Data.csv','Delimiter',',');
 [n,~] = size(T)
 
 inputs = [T.Quarter'; T.Minute'; 
