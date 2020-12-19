@@ -14,3 +14,5 @@ DOI: 10.3233/JSA-190348 | Link: https://content.iospress.com/articles/journal-of
 •	Sport Innovation Summit, Toronto 2019 (Oral & Poster)
 
 •	New England Symposium on Statistics in Sports, Harvard 2017 (Oral) | Link: https://www.youtube.com/watch?v=6_NvhrtF_5I&ab_channel=MarkGlickman
+
+![picture](SPIN_2019_Poster_Predicting_Plays.jpg)
