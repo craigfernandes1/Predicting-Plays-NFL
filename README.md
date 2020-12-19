@@ -3,7 +3,7 @@ Implementing various ML methods to predict play types in the NFL and create deci
 
 ### Paper Information: 
 
-Citation:C. Fernandes, R. Yakubov, Y. Li, A. Prasad, T. C. Y. Chan, "Predicting Plays in the National Football League," *Journal of Sports Analytics*, Vol. 6, pp. 35-43, 2020.
+C. Fernandes, R. Yakubov, Y. Li, A. Prasad, T. C. Y. Chan, "Predicting Plays in the National Football League," *Journal of Sports Analytics*, Vol. 6, pp. 35-43, 2020.
 
 DOI: 10.3233/JSA-190348 | Link: https://content.iospress.com/articles/journal-of-sports-analytics/jsa190348
 
