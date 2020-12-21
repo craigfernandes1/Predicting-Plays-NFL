@@ -1,7 +1,7 @@
 # Predicting-Plays-NFL
 Implementing various ML methods to predict play types in the NFL and create decion-making tools that can be adopted by coaches.
 
-### Paper Information: 
+### Paper [pubished]: 
 
 C. Fernandes, R. Yakubov, Y. Li, A. Prasad, T. C. Y. Chan, "Predicting Plays in the National Football League," *Journal of Sports Analytics*, Vol. 6, pp. 35-43, 2020.
 
